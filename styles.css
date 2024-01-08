@@ -7,3 +7,11 @@
   flex-direction: row;
   margin-left: auto;
 }
+
+ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
