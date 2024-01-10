@@ -12,6 +12,15 @@
   display: flex;
 }
 
+.hero-content {
+  display: flex;
+}
+
+.hero-text {
+  display: flex;
+  flex-direction: column;
+}
+
 .links {
   display: flex;
   flex-direction: row;
