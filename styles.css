@@ -21,6 +21,12 @@
   flex-direction: column;
 }
 
+.hero-text > p1 {
+  font-size: 48px;
+  font-weight: 800;
+  color: #f9faf8;
+}
+
 .links {
   display: flex;
   flex-direction: row;
