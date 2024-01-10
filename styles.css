@@ -27,6 +27,11 @@
   color: #f9faf8;
 }
 
+.hero-text > p2 {
+  font-size: 18px;
+  color: #e5e7eb;
+}
+
 .links {
   display: flex;
   flex-direction: row;
