@@ -49,6 +49,12 @@ body {
   gap: 20px;
 }
 
+.services-header {
+  font-size: 36px;
+  font-weight: 800;
+  color: #1f2937;
+}
+
 ul {
   list-style: none;
   padding: 0;
