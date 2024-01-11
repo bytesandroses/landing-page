@@ -61,6 +61,11 @@ body {
   color: #1f2937;
 }
 
+.services {
+  display: flex;
+
+}
+
 ul {
   list-style: none;
   padding: 0;
