@@ -77,7 +77,8 @@ body {
 .service-title {
   font-size: 20px;
   font-weight: 700;
-  color: #1f2937
+  color: #1f2937;
+  padding-bottom: 15px;
 }
 
 .service-description {
