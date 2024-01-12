@@ -53,14 +53,14 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
-  padding: 30px 125px 30px 125px;
+  padding: 50px 125px 200px 125px;
 }
 
 .services-header {
   font-size: 36px;
   font-weight: 800;
   color: #1f2937;
-  padding-bottom: 20px;
+  padding-bottom: 30px;
 }
 
 .services {
