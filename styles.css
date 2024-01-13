@@ -124,6 +124,7 @@ body {
 
 .booking-box {
   background-color: #3882f6;;
+  display: flex;
 }
 
 ul {
