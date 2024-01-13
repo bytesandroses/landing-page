@@ -114,6 +114,7 @@ body {
   color: #1f2937;
   display: flex;
   justify-content: flex-end;
+  padding-right: 50px;
 }
 
 ul {
