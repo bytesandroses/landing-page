@@ -99,6 +99,13 @@ body {
   padding: 100px 250px 100px 250px;
 }
 
+.testimonial-text {
+  font-size: 30px;
+  font-weight: 300;
+  font-style: italic;
+  color: #1f2937;
+}
+
 ul {
   list-style: none;
   padding: 0;
