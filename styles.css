@@ -125,6 +125,7 @@ body {
 .booking-box {
   background-color: #3882f6;;
   display: flex;
+  padding: 50px 100px 50px 100px;
 }
 
 ul {
