@@ -118,6 +118,14 @@ body {
   padding-top: 25px;
 }
 
+.booking-container {
+  padding: 100px 250px 100px 250px;
+}
+
+.booking-box {
+  background-color: #3882f6;;
+}
+
 ul {
   list-style: none;
   padding: 0;
