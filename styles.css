@@ -97,13 +97,23 @@ body {
 .testimonial-container {
   background-color: #e5e7eb;
   padding: 100px 250px 100px 250px;
+  display: flex;
+  flex-direction: column;
 }
 
 .testimonial-text {
   font-size: 30px;
-  font-weight: 300;
+  font-weight: lighter;
   font-style: italic;
   color: #1f2937;
+}
+
+.testimonial-person {
+  font-size: 30px;
+  font-weight: bold;
+  color: #1f2937;
+  display: flex;
+  justify-content: flex-end;
 }
 
 ul {
